@@ -1,0 +1,3 @@
+
+export const MIXPANEL_API_SECRET = 'ecede17921a322b2f0a952679bd45a6c'
+export const MIXPANEL_PROJECT_TOKEN = '83ac6cb3b414a5c215887f27d6f7a315'
