@@ -4,7 +4,7 @@ import { v4 as uuidv4 } from 'uuid';
 import {
   MIXPANEL_API_SECRET,
   MIXPANEL_PROJECT_TOKEN,
-} from './constants/mixpanelApiKeys';
+} from '../mixpanelApiKeys';
 
 @Injectable()
 export class AppService {
